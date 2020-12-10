@@ -1,0 +1,3 @@
+function amountInvoiced(startDate, endDate) {
+  // ...
+}
